@@ -1,0 +1,28 @@
+nav {
+    background-color: #000000e8;
+    color: rgb(255, 255, 255);
+}
+#navbar-color, #name-color {
+    color: #FFF;
+}
+
+.title-color {
+    height:100vh;
+    background-color: #bcbec1a4;
+    background-size:cover;
+    position:relative;
+}
+
+.title-description {
+    font-size: 1.5rem;
+}
+.title-container {
+    transform: translate(10%, 60%);
+    color: rgb(0, 0, 0);
+}
+.home-content {
+    margin: 100px 0 60px 0;
+}
+.portfolio-row {
+    margin: 35px 0 35px 0;
+}
