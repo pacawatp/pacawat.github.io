@@ -9,6 +9,7 @@ nav {
 .title-color {
     height:100vh;
     background-color: #bcbec1a4;
+    background-image: url("bg1.png");
     background-size:cover;
     position:relative;
 }
@@ -17,8 +18,8 @@ nav {
     font-size: 1.5rem;
 }
 .title-container {
-    transform: translate(10%, 60%);
-    color: rgb(0, 0, 0);
+    transform: translate(10%, 100%);
+    color: rgb(255, 255, 255);
 }
 .home-content {
     margin: 100px 0 60px 0;
